@@ -11,8 +11,8 @@ public class RegisterEnchantments
 
     public static void register()
     {
-        Registry.register(Registry.ENCHANTMENT, new Identifier("tutorial", "frost"), new Frost());
-        Registry.register(Registry.ENCHANTMENT, new Identifier("tutorial", "shulker_malediction"), new MaledictionShulker());
-        Registry.register(Registry.ENCHANTMENT, new Identifier("tutorial", "poison"), new Poison());
+        Registry.register(Registry.ENCHANTMENT, new Identifier("test", "frost"), new Frost());
+        Registry.register(Registry.ENCHANTMENT, new Identifier("test", "shulker_malediction"), new MaledictionShulker());
+        Registry.register(Registry.ENCHANTMENT, new Identifier("test", "poison"), new Poison());
     }
 }

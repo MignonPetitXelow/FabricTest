@@ -1,0 +1,16 @@
+{
+  "item.test.fusion_sword": "Fusion Sword",
+  "item.test.fusion_pickaxe": "Fusion Pickaxe",
+  "item.test.fusion_axe": "Fusion Axe",
+  "item.test.fusion_material_helmet": "Fusion Helmet",
+  "item.test.fusion_material_chestplate": "Fusion Chestplate",
+  "item.test.fusion_material_leggings": "Fusion Leggings",
+  "item.test.fusion_material_boots": "Fusion Boots",
+  "item.test.hot_fusion_ingot": "Fusion Ingot",
+
+  "enchantment.test.frost": "§bFrost",
+  "enchantment.test.shulker_malediction": "§cShulker Malediction",
+  "enchantment.test.poison": "§2Poison",
+
+  "biome.test.test": "Test (Yeah really.)"
+}

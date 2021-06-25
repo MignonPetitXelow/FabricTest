@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "test:paladium_raw"
+  },
+  "result": "test:paladium_ingot",
+  "experience": 0.9,
+  "cookingtime": 210
+}

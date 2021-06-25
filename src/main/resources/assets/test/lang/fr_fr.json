@@ -1,0 +1,16 @@
+{
+  "item.test.fusion_sword": "Épée fusionné",
+  "item.test.fusion_pickaxe": "Pioche fusionné",
+  "item.test.fusion_axe": "Hache fusionné",
+  "item.test.fusion_material_helmet": "Casque fuisonné",
+  "item.test.fusion_material_chestplate": "Plastron fussioné",
+  "item.test.fusion_material_leggings": "Jambières fussioné",
+  "item.test.fusion_material_boots": "Bottes fusionné",
+  "item.test.hot_fusion_ingot": "Lingot fussioné chaud",
+
+  "enchantment.test.frost": "§bGel",
+  "enchantment.test.shulker_malediction": "§cMalediction de levitation",
+  "enchantment.test.poison": "§2Poison",
+
+  "biome.test.test": "Test (Oui vraiment)"
+}

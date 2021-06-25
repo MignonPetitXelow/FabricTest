@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:netherite_chestplate"
+  },
+  "addition": {
+    "item": "test:hot_fusion_ingot"
+  },
+  "result": {
+    "item": "test:fusion_chestplate"
+  }
+}
