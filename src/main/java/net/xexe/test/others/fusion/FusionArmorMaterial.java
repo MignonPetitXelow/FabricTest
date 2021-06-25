@@ -13,7 +13,7 @@ public class FusionArmorMaterial implements ArmorMaterial
     private static final int[] PROTECTION_VALUES = new int[] {8, 10, 14, 8};
 
     @Override
-    public int getDurability(EquipmentSlot slot) { return BASE_DURABILITY[slot.getEntitySlotId()] * 69 /*ui 69 je sais ;3*/; }
+    public int getDurability(EquipmentSlot slot) { return BASE_DURABILITY[slot.getEntitySlotId()] * 69 /* :) */; }
 
     @Override
     public int getProtectionAmount(EquipmentSlot slot) { return PROTECTION_VALUES[slot.getEntitySlotId()]; }
